@@ -8,4 +8,6 @@ Grover's Algorithm has 3 main components:
 
 Putting these components together, and applying the Oracle and Diffusion operators $O(\sqrt{N = 2^n})$ times, Grover's algorithm allows us to successfully determine the elements that were marked by the Oracle operator with high probability.
 
+Notebook: https://nbviewer.org/github/S-Ganesh980/Implementing-Grover-s-Algorithm/blob/main/Implementing%20Grover%27s%20Algorithm%20.ipynb
+
 Reference: Qiskit Summer School 
